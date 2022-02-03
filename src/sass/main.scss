@@ -1,0 +1,18 @@
+body {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	min-height: 100vh;
+	background-color: #fff;
+}
+
+.title {
+	text-align: center;
+	width: 100%;
+	font-size: 100px;
+	color: #000;
+	font-style: italic;
+	text-transform: uppercase;
+}
